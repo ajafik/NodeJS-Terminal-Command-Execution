@@ -1,0 +1,16 @@
+{
+  "name": "execute_linux_commands_with_nodejs",
+  "version": "1.0.0",
+  "description": "Execute any terminal command with nodejs script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "linux",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "ajafik",
+  "license": "ISC"
+}
